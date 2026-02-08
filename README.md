@@ -33,13 +33,12 @@ and SQL with proven exposure to CSAT, FCR, productivity, and SLA metrics.
 
 ## 📁 Projects
 
-### 🔹 Amazon Escalation & FCR Analysis
-**Tools:** Excel, Power BI  
-**Problem:** High repeat contacts and customer escalations  
-**Analysis:** Identified key escalation drivers and repeat contact patterns  
-**Outcome:** Actionable insights to improve FCR and customer experience  
+### 🛒 Blinkit Grocery Sales Dashboard (Excel)
+**Tools:** Excel  
+**Focus:** Sales performance, outlet analysis, business insights  
 
-📊 Dashboard Screenshot (coming soon)
+📂 [View Project](projects/blinkit-excel-dashboard/)
+
 
 ---
 
