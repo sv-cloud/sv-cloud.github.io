@@ -49,4 +49,4 @@ and customer behavior to support business and operational decisions.
 
 ## 📂 Files
 - Excel Dashboard: `BlinkIT_Grocery_Data.xlsx`
-- Dashboard Screenshots (below)
+- Dashboard Screenshots (Blinkit_Dashboard.png)
